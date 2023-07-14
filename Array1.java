@@ -9,9 +9,7 @@ public class Array
         {
             System.out.println(a[i]);
         }
-
         //Or
-
         for(float x:a)
         {
             System.out.println(x);
