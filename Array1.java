@@ -1,5 +1,4 @@
 //Display all the elements of given array.
-
 public class Array
 {
     public static void main(String []arg)
